@@ -53,7 +53,7 @@ int main(void){
     int arrSize=6;
     PrintArr(arr,6);
     Merge_Sort(arr,0,arrSize-1);
-PrintArr(arr,6);
+    PrintArr(arr,6);
 
 
     printf("ENDEND\n");
